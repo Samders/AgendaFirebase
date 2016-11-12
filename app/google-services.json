@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "215946590788",
+    "firebase_url": "https://agendafirebase-b1c45.firebaseio.com",
+    "project_id": "agendafirebase-b1c45",
+    "storage_bucket": "agendafirebase-b1c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215946590788:android:6eab536e2ba5a678",
+        "android_client_info": {
+          "package_name": "com.alberthneerans.agendafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215946590788-0egqq345tgu036ebkp6ibrn5n4u9is3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
